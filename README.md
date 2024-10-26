@@ -1,1 +1,1 @@
-# Cuisines-app
+# Example
